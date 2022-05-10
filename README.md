@@ -2,10 +2,16 @@
 
 ### Install
 
+NPM
 ```sh
 npx degit andrey-pavlenko/tep-template application_name
-# or
+```
+
+PNPM
+
+```sh
 pnpx degit andrey-pavlenko/tep-template application_name
 ```
+
 
 - Correct `name` in `package.json`
